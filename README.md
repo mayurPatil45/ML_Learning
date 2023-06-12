@@ -6,3 +6,8 @@ Welcome to my Machine Learning Study Repository! This repository serves as a col
 This project aims to classify between as Rock or Mine using Logistic Regression.
 
 - Project 2: [Diabetes Prediction](https://github.com/mayurPatil45/ML_Learning/tree/main/Diabetes%20Prediction): A regression project aims to classify individuals as diabetic or non-diabetic using Support Vector Machines (SVM). It utilizes a dataset with relevant features such as age, BMI, glucose levels, and blood pressure. The trained model can aid in early detection and prevention of diabetes for improved healthcare outcomes.
+
+- Project 3: [Gold Price Prediction](https://github.com/mayurPatil45/ML_Learning/tree/main/Gold%20Price%20Prediction): A project using Random Forest Regressor to predict gold prices with remarkable accuracy! 💰📈
+
+
+#### Feel free to contribute, provide feedback. Happy predicting!😊
