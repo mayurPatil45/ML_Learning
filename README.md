@@ -13,4 +13,6 @@ This project aims to classify between as Rock and Mine using Logistic Regression
 
 - Project 5: [Wine Quality Prediction](https://github.com/mayurPatil45/ML_Learning/tree/main/Wine%20Quality%20Prediction): A project using Random Forest Classifier to predict quality of wine! 🍷 
 
+- Project 6: [Heart Disease Prediction](https://github.com/mayurPatil45/ML_Learning/tree/main/Heart%20Disease%20Prediction)
+
 #### Feel free to contribute, and give me any feedback you might have. Happy predicting!😊
